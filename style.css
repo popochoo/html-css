@@ -34,7 +34,6 @@ p {
 }
 
 img {
-    overflow-clip-margin: content-box;
     overflow: clip;
 }
 
@@ -444,7 +443,7 @@ li {
     width: 1440px;
     height: 809px;
     padding: 0;
-    max-width: 208px 0px 0px 0px;
+    margin: 208px 0px 0px 0px;
     background-color: #FFD69633;
 }
 
